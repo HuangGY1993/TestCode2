@@ -1,5 +1,8 @@
 {
     "dy2":{
         "disable":false
+    },
+    "pacz":{
+        "disable":false
     }
 }
